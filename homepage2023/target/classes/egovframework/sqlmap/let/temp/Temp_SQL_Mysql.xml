@@ -15,7 +15,7 @@
 		  TEMP_ID
 		  , TEMP_VAL
 		FROM lettemp
-		WHERE TEMP_ID = #tempId#
+		WHERE TEMP_ID = #tempId# 
 	</select>
 
 </sqlMap>
